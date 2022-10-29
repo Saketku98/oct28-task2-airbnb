@@ -1,0 +1,30 @@
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  
+}
+.item {
+  height: 90vh;
+  width: 70%;
+  border: 3px solid black;
+  background-color: brown;
+  margin: 10px;
+  text-align: center;
+  padding-top: 20px 10px;
+}
+.item h1{
+  font-size: 80px;
+  color: antiquewhite;
+}
+
+.item p{
+  font-size: 40px;
+  color: antiquewhite;
+}
+
+.item img{
+  height: 10%;
+  width: 10%;
+}
